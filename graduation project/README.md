@@ -20,7 +20,7 @@ git clone https://github.com/ZAT0P0S/graduation-project.git
 2.安装依赖
 pip install -r requirements.txt
 3.运行项目
-python src/model_training.py
+python src/最终版.py
 
 五、核心成果展示 (Key Results)
 经过系统性评估，最终的XGBoost模型在独立测试集上表现最优，取得了 90.22%的准确率 和 0.8855的PR AUC。
